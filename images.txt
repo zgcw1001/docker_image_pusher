@@ -1,1 +1,1 @@
-linuxserver/jellyfin:10.3.3
+linuxserver/jellyfin:v10.3.5-ls1
