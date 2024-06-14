@@ -1,1 +1,1 @@
-linuxserver/qbittorrent:latest
+linuxserver/plex:latest
