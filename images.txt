@@ -1,1 +1,1 @@
-linuxserver/emby:latest
+pull jellyfin/jellyfin:10.3.3
