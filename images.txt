@@ -1,1 +1,1 @@
-linuxserver/plex:latest
+spritsail/plex-media-server
