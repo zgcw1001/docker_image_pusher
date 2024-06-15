@@ -1,1 +1,1 @@
-svasek/calibre-web:1.14
+johngong/calibre-web:0.6.21-7.9.0
