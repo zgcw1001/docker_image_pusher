@@ -1,1 +1,1 @@
-lsiodev/jellyfin:10.9.2-master-ffmpeg
+swz128/xunlei:latest
