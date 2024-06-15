@@ -1,1 +1,1 @@
-linuxserver/jellyfin:10.9.6ubu2204-ls19
+linuxserver/jellyfin:10.8.13-1-ls10
