@@ -1,1 +1,1 @@
-johngong/calibre-web:0.6.21-7.9.0
+jellyfin/jellyfin:2024061005
