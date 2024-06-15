@@ -1,1 +1,1 @@
-linkease/webvirtcloud:0.3.6
+svasek/calibre-web:1.14
