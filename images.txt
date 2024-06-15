@@ -1,1 +1,1 @@
-linuxserver/jellyfin:10.8.13-1-ls10
+vdsm/virtual-dsm
