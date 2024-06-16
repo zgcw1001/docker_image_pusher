@@ -1,1 +1,1 @@
-grinch27/baidunetdisk:dev
+xjxjin/alist-sync:v1.0.1
