@@ -1,1 +1,1 @@
-xjxjin/alist-sync:v1.0.1
+ghcr.io/wy580477/musicn-container:latest
